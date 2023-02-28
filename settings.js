@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
+global.owner = ['22548132639']
+global.premium = ['22548132639']
+global.ownernomer = '22548132639'
+global.ownername = 'SCP FOUNDATION'
+global.botname = 'Murphy Lawden'
+global.footer = '𝐒𝐂𝐏 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐈𝐧𝐜.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
@@ -48,7 +48,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: "Infinity",
     monayawal: 1000
 }
    global.rpg = {
